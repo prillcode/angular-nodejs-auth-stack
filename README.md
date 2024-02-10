@@ -14,4 +14,7 @@ In the Angular Client app, remove or comment out the line below the comment:
 `// provider used to create fake backend`  
 located in the /src/app/app.module.ts file.  
 
-Then restart the Angular app and it will now send requests to the Node.js authentication API on port 4000.
+Then restart the Angular app and it will now send requests to the Node.js authentication API on port 4000.  
+
+  
+[Follow this tutorial to implement this Stack](https://jasonwatmore.com/nodejs-jwt-authentication-tutorial-with-example-api).
