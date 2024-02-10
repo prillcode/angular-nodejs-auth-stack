@@ -16,5 +16,6 @@ located in the /src/app/app.module.ts file.
 
 Then restart the Angular app and it will now send requests to the Node.js authentication API on port 4000.  
 
+__  
   
-[Follow this tutorial to implement this Stack](https://jasonwatmore.com/nodejs-jwt-authentication-tutorial-with-example-api).
+[VIDEO: More explanation on this Stack](https://www.youtube.com/watch?v=DZ9LB9IFZ8U).
