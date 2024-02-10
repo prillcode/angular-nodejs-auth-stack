@@ -18,4 +18,6 @@ Then restart the Angular app and it will now send requests to the Node.js authen
 
 __  
   
-[VIDEO: More explanation on this Stack](https://www.youtube.com/watch?v=DZ9LB9IFZ8U).
+[VIDEO: More explanation on this Stack](https://www.youtube.com/watch?v=DZ9LB9IFZ8U).  
+
+[POST: Angular - JWT Authentication Example & Tutorial](https://jasonwatmore.com/post/2022/11/15/angular-14-jwt-authentication-example-tutorial)
